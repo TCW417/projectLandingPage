@@ -10,3 +10,10 @@ body {
   background-repeat: no-repeat;
 
 }
+
+h2 {
+  margin-bottom: 5px;
+}
+h3 {
+  margin-top: 0px;
+}
